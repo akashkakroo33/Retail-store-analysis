@@ -5,4 +5,4 @@ The objective of this project is to conduct a Retail Store Analysis for the year
 
 
 ## Dataset used
-[Dataset](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
+- [Dataset](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)

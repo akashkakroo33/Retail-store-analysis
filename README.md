@@ -1,1 +1,1 @@
-# Retail-Store-Data-Analysis using Pandas and SQL
+# Retail Store Data Analysis using Pandas and SQL

@@ -1,5 +1,4 @@
 # Retail Store Data Analysis using Pandas and SQL
 
 ## Project Objective
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
-
+The objective of this project is to conduct a Retail Store Analysis for the year 2022 and 2023. The goal is to help the store owner gain valuable insights into customer behavior, sales trends, and product performance. By analyzing annual sales data, the owner can make informed decisions to increase revenue, improve customer satisfaction, and drive business growth in 2022 and 2023.
